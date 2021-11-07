@@ -86,7 +86,7 @@ footer {
   z-index: 1;
 }
 
-@media only screen and (min-width: 480px) and (max-width:1104px) {
+@media (min-width: 480px) and (max-width:1104px) {
   .p {
       max-width: 75%;
   }
@@ -130,7 +130,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 705px) and (max-width: 1111px) {
+@media (min-width: 705px) and (max-width: 1111px) {
   .left {
     margin-left: 360px;
     margin-top: 70px;
