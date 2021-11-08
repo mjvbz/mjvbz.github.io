@@ -176,7 +176,7 @@ footer {
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 
 h1 {
-     font-size: 50px;
+     font-size: 30px;
 }
 
 .p {
@@ -184,7 +184,7 @@ h1 {
   }
 
   .left {
-    margin-left: 120px;
+    margin-left: 90px;
     margin-top: 70px;
   }
 
@@ -213,7 +213,7 @@ h1 {
   .p2 {
   margin-top: 30px;
   color: #580b7c;
-  padding-left: 165px;
+  padding-left: 130px;
   font-size: 2.8vh;
   font-family: 'Dancing Script', cursive;
   max-width: 60%;
