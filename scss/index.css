@@ -175,26 +175,47 @@ footer {
 
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 
-  h1 {
-    font-size: 10vh;
-
-
-
+.p {
+      max-width: 75%;
   }
 
   .left {
-      position:relative;
-      right:770px;
-      bottom:400px;
-    
-
+    margin-left: 120px;
+    margin-top: 70px;
   }
 
-  .p {
-    position: relative;
-    right:20px;
+  .left:hover {
+    margin-top: 70px;
+    cursor: pointer;
+    z-index: 1;
   }
- 
+
+  .left, img {
+    display: flex;
+    justify-content: center;
+  }
+
+  footer {
+    margin-top: 400px;
+    text-align: center;
+    font-size: 1.5vh;
+    cursor: pointer;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    color: #580b7c;
+  }
+
+  .p2 {
+  margin-top: 30px;
+  color: #580b7c;
+  padding-left: 165px;
+  font-size: 2.8vh;
+  font-family: 'Dancing Script', cursive;
+  max-width: 60%;
+  z-index: 1;
+  margin-bottom: 20px;
+  }
   
 }
 
