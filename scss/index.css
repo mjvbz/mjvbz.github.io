@@ -170,3 +170,32 @@ footer {
   }
 }
 /*# sourceMappingURL=index.css.map */
+/*# Responsive Design{HEX-WARRIOR} */
+
+
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+
+  h1 {
+    font-size: 10vh;
+
+
+
+  }
+
+  .left {
+      position:relative;
+      right:770px;
+      bottom:400px;
+    
+
+  }
+
+  .p {
+    position: relative;
+    right:20px;
+  }
+ 
+  
+}
+
+
