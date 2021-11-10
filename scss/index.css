@@ -4,6 +4,8 @@
   margin: 0;
   background-color: #f6f6f6;
   z-index: -1;
+  animation-name: loading;
+  animation-duration: 1s;
 }
 
 h1::selection {
@@ -20,7 +22,7 @@ img::selection {
   color: white;
 }
 
-footer:selection {
+footer::selection {
   background-color: #580b7ca6;
   color: white;
 }
@@ -41,10 +43,32 @@ html {
   color: white;
   padding-top: 100px;
   padding-bottom: 150px;
+  z-index: 1;
 }
 
 h1 {
   font-size: 100px;
+  animation-name: loading;
+  animation-duration: 2s;
+}
+
+@keyframes loading {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.sub {
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  z-index: -1;
 }
 
 a {
