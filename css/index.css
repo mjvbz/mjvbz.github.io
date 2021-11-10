@@ -90,6 +90,7 @@ a:hover {
 }
 
 .left {
+  width: 300px;
   margin-top: -230px;
   margin-left: 1000px;
   position: absolute;
