@@ -1,0 +1,19 @@
+{
+  "name": "itsmeshon",
+  "version": "1.0.0",
+  "description": "\u0016sparkles itsMeShon's personal portfolio website of misc. coding projects.\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[S\u001b[B\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.html",
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsMeShon/itsmeshon.github.io.git"
+  },
+  "author": "Shon Santhosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsMeShon/itsmeshon.github.io/issues"
+  },
+  "homepage": "https://github.com/itsMeShon/itsmeshon.github.io#readme"
+}
