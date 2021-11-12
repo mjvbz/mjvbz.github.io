@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/itsMeShon/itsmeshon.github.io/issues"
   },
-  "homepage": "https://github.com/itsMeShon/itsmeshon.github.io#readme",
+  "homepage": "https:itsmMeShon.netlify.app",
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.0",
