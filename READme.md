@@ -1,7 +1,7 @@
 
 # Personal Website
 
-<img alt="image by thomasmathew" src="https://user-images.githubusercontent.com/84258378/141392003-b35e384c-1d3e-467b-aed2-09b6b214126a.gif">
+<img alt="Image by ThomasMathew" src="https://user-images.githubusercontent.com/84258378/141392003-b35e384c-1d3e-467b-aed2-09b6b214126a.gif">
 
 This repository houses Shon Santhosh's web development and design portfolio. It is built using HTML/CSS and JavaScript and was developed with  [ThomasMathew](https://github.com/hexwarrior-pixel).
 
