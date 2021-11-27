@@ -225,10 +225,11 @@ h1 {
 
 .p {
       max-width: 75%;
+      margin-left: 50px;
   }
 
   .left {
-    margin-left: 90px;
+    margin-left: 60px;
     margin-top: 70px;
   }
 
@@ -257,7 +258,7 @@ h1 {
   .p2 {
   margin-top: 30px;
   color: #580b7c;
-  padding-left: 130px;
+  padding-left: 120px;
   font-size: 2.8vh;
   font-family: 'Dancing Script', cursive;
   max-width: 60%;
