@@ -17,7 +17,7 @@ It has a eslintjs support with prettier features
 
 ## Live Website [![Netlify Status](https://api.netlify.com/api/v1/badges/a47598b9-6c2e-40a1-b646-a5f3334db8d7/deploy-status)](https://app.netlify.com/sites/itsmeshon/deploys)
 
-<a href="https://shonsanthosh.github.io">shonsanthosh.github.io</a>.
+<a href="https://mjvbz.github.io">mjvbz.github.io</a>.
 
 Then open the folder in your command line, and install the needed dependencies:
 
