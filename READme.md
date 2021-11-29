@@ -1,7 +1,7 @@
 
 # Personal Website
 
-<img alt="Image by ThomasMathew" src="https://user-images.githubusercontent.com/84258378/141392003-b35e384c-1d3e-467b-aed2-09b6b214126a.gif">
+![image](https://github.com/mjvbz/mjvbz.github.io/blob/master/__aditional/Images/IMG_20211129_120504_482.jpg)
 
 This repository houses Shon Santhosh's web development and design portfolio. It is built using HTML/CSS and JavaScript and was developed with  [ThomasMathew](https://github.com/TomsMater).
 
