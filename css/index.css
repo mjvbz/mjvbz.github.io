@@ -48,16 +48,16 @@ html {
 
 h1 {
   font-size: 100px;
-  animation-name: moving 5s;
-  animation-duration: 5s;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 @keyframes moving {
   0% {
-    left: 0px;
+    opacity: 0%;
   }
   100% {
-    text-align: center;
+    opacity: 100%;
   }
 }
 
@@ -69,11 +69,15 @@ h1 {
   padding-top: 100px;
   padding-bottom: 150px;
   z-index: -1;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 a {
   color: white;
   transition: 0.3s;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 a:hover {
@@ -88,6 +92,8 @@ a:hover {
   max-width: 60%;
   z-index: 1;
   color: white;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 .left {
@@ -97,12 +103,16 @@ a:hover {
   position: absolute;
   z-index: 10;
   border-radius: 50%;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 .left, img {
   border-radius: 50%;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 .left:hover {
@@ -129,6 +139,8 @@ footer {
   font-family: 'Dancing Script', cursive;
   max-width: 60%;
   z-index: 1;
+  animation-name: moving 2s;
+  animation-duration: 2s;
 }
 
 @media (min-width: 480px) and (max-width:1104px) {
