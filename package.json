@@ -1,7 +1,7 @@
 {
-  "name": "itsmeshon",
+  "name": "Shon Santhosh",
   "version": "1.0.0",
-  "description": "\u0016sparkles itsMeShon's personal portfolio website of misc. coding projects.\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[S\u001b[B\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "description": "Shon Santhoshs personal portfolio website of misc. coding projects.\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[S\u001b[B\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
   "main": "index.html",
   "scripts": {
     "test": "python tests/index.py",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsMeShon/itsmeshon.github.io.git"
+    "url": "git+https://github.com/mjvbz/mjvbz.github.io.git"
   },
   "author": "Shon Santhosh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsMeShon/itsmeshon.github.io/issues"
+    "url": "https://github.com/mjvbz/mjvbz.github.io/issues"
   },
-  "homepage": "https:itsmMeShon.netlify.app",
+  "homepage": "https:itsMeShon.netlify.app",
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.0",
