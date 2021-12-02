@@ -6,8 +6,6 @@
   margin: 0;
   background-color: #1F2833;
   z-index: -1;
-  animation-name: loading;
-  animation-duration: 1s;
 }
 
 h1::selection {
@@ -50,16 +48,16 @@ html {
 
 h1 {
   font-size: 100px;
-  animation-name: loading;
-  animation-duration: 2s;
+  animation-name: moving 5s;
+  animation-duration: 5s;
 }
 
-@keyframes loading {
+@keyframes moving {
   0% {
-    opacity: 0;
+    left: 0px;
   }
   100% {
-    opacity: 1;
+    text-align: center;
   }
 }
 
