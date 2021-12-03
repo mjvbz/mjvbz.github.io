@@ -52,6 +52,10 @@ h1 {
   animation-duration: 2s;
 }
 
+h1, span {
+  background-color: #0B0C10;
+}
+
 @keyframes moving {
   0% {
     opacity: 0%;
