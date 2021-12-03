@@ -245,7 +245,11 @@ h1, span {
   text-align: center;
   background: 100%;
   width: 100%;
-  margin-left: 45px;
+  margin-left: 40px;
+}
+
+.smallerFont {
+  margin-left: 5px;
 }
 
 .p {
