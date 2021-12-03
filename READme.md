@@ -21,6 +21,8 @@ It has a eslintjs support with prettier features
 
 Then open the folder in your command line, and install the needed dependencies:
 
+If you found any bugs/errors while npm i command run this command - `Run the command 'rm package-lock.json', then re-ran 'npm install' and everything will work :)`
+
 ```bash
 cd projectname
 npm install
