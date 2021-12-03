@@ -235,6 +235,11 @@ footer {
 
 
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+.name {
+  background-color: #0B0C10;
+  width: 100%;
+  height: auto;
+}
 
 h1 {
      font-size: 60px;
@@ -249,7 +254,7 @@ h1, span {
 }
 
 .smallerFont {
-  margin-left: 5px;
+  padding-left: 5px;
 }
 
 .p {
