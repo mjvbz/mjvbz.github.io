@@ -88,7 +88,7 @@ a:hover {
   margin-top: 360px;
   padding-left: 70px;
   font-size: 3vh;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Dancing Script', cursive;
   max-width: 60%;
   z-index: 1;
   color: white;
@@ -239,7 +239,6 @@ h1 {
 .p {
       max-width: 85%;
       margin-left: -30px;
-      font-size: 20px;
   }
 
   .left {
