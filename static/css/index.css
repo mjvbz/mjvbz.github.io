@@ -243,6 +243,8 @@ h1 {
 
 h1, span {
   text-align: center;
+  background: 100%;
+  Width: 100%;
 }
 
 .p {
