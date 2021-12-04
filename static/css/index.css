@@ -65,7 +65,7 @@ body.light {
     top: 1rem;
     right: 2rem;
     font-size: 1.5rem;
-    color: #1b262c;
+    color: #722F37;
     opacity: .8;
     transition: .3s;
     z-index: 3;
@@ -252,7 +252,7 @@ body.light {
 }
 
 .dark .icon:hover{
-    color: #51c0be;
+    color: #722F37;
 }
 
 .dark .buttons-wrap{
@@ -275,8 +275,8 @@ body.light {
 .dark .follow{
     padding: 9.6px 0;
     width: 100%;
-    background: #51c0be;
-    color: #000;
+    background: #722F37;
+    color: #fff;
     text-align: center;
     text-decoration: none;
     font-size: .7rem;
@@ -290,7 +290,7 @@ body.light {
     padding: 7.6px 0;
     width: 100%;
     border: 2px solid #51c0be;
-    color: #51c0be;
+    color: #722F37;
     text-decoration: none;
     text-align: center;
     font-size: .7rem;
