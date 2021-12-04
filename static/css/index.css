@@ -149,7 +149,7 @@ body.light {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(254, 79, 79, 0.7);
+    background-color: #1F2833;
     display: flex;
     justify-content: center;
     align-items: center;
