@@ -65,7 +65,7 @@ body.light {
     top: 1rem;
     right: 2rem;
     font-size: 1.5rem;
-    color: #722F37;
+    color: #7F00FF;
     opacity: .8;
     transition: .3s;
     z-index: 3;
@@ -168,7 +168,7 @@ body.light {
 
 .dark .name{
     font-family: 'Dancing Script', cursive;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     color: #fff;
     font-weight: 500;
     line-height: 1;
@@ -252,7 +252,7 @@ body.light {
 }
 
 .dark .icon:hover{
-    color: #722F37;
+    color: #7F00FF;
 }
 
 .dark .buttons-wrap{
@@ -275,7 +275,7 @@ body.light {
 .dark .follow{
     padding: 9.6px 0;
     width: 100%;
-    background: #722F37;
+    background: #7F00FF;
     color: #fff;
     text-align: center;
     text-decoration: none;
@@ -290,7 +290,7 @@ body.light {
     padding: 7.6px 0;
     width: 100%;
     border: 2px solid #51c0be;
-    color: #722F37;
+    color: #7F00FF;
     text-decoration: none;
     text-align: center;
     font-size: .7rem;
