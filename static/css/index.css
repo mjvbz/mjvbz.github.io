@@ -16,11 +16,11 @@ body{
 }
 
 body.dark {
-	background-image: url('https://raw.githubusercontent.com/mjvbz/mjvbz.github.io/mjvbz-patch-1/public/images/3304482.jpg');
+	background-image: url('https://raw.githubusercontent.com/mjvbz/mjvbz.github.io/master/public/images/bg.jpg');
 }
 
 body.light {
-	background-image: url('https://raw.githubusercontent.com/mjvbz/mjvbz.github.io/mjvbz-patch-1/public/images/3304482.jpg');
+	background-image: url('https://raw.githubusercontent.com/mjvbz/mjvbz.github.io/master/public/images/bg.jpg');
 }
 	
 #check {
