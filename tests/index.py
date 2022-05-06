@@ -15,7 +15,7 @@ class WebpageTests(unittest.TestCase):
 
     def index_title(self):
         driver.get(file_uri("index.html"))
-        self.assertEqual(driver.title, "itsMeShon")
+        self.assertEqual(driver.title, "Shon Santhosh (@mjvbz)")
 
     def main_title(self):
         driver.get(file_uri("index.html"))
